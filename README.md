@@ -1,1 +1,1 @@
-# Impacto-de-la-IA
+# IA
